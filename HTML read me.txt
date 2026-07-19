@@ -1,0 +1,187 @@
+# Web Designing and Development (HTML & CSS) Laboratory
+
+
+# Projects Completed
+
+## Task 1 – Sales Letter Using HTML
+
+**Objective:**
+Created a professional sales letter using HTML text formatting and images.
+
+**Concepts Used:**
+
+* HTML Text Formatting
+* Images
+* Headings
+* Paragraphs
+* Lists
+
+---
+
+## Task 2 – Advertisement Using HTML
+
+**Objective:**
+Designed a creative advertisement page for a music company using HTML and images.
+
+**Concepts Used:**
+
+* Images
+* Headings
+* Text Formatting
+* Hyperlinks
+
+---
+
+## Task 3 – Musical Instrument Store Website
+
+**Objective:**
+Developed a simple website for a musical instrument store with multiple pages.
+
+**Concepts Used:**
+
+* Hyperlinks
+* Images
+* Tables
+* Text Formatting
+
+---
+
+## Task 4 – Frames
+
+**Objective:**
+Created a website using HTML Frames consisting of Header, Home, and Footer pages.
+
+**Concepts Used:**
+
+* HTML Frames
+* Navigation
+* Multiple HTML Pages
+
+---
+
+## Task 5 – Patient Record Entry Form
+
+**Objective:**
+Designed an online patient record entry form.
+
+**Concepts Used:**
+
+* HTML Forms
+* Input Controls
+* Radio Buttons
+* Checkboxes
+* Submit and Reset Buttons
+
+---
+
+## Task 6 – JavaScript Dialog Boxes
+
+**Objective:**
+Developed a mini application demonstrating JavaScript dialog boxes.
+
+**Features:**
+
+* Alert Box
+* Confirm Box
+* Prompt Box
+
+---
+
+## Task 7 – Online Science Quiz
+
+**Objective:**
+Created an online science quiz application.
+
+**Features:**
+
+* Login Page
+* Multiple Choice Questions
+* Validation
+* Final Score Display
+
+**Concepts Used:**
+
+* HTML
+* JavaScript
+* Forms
+* Validation
+
+---
+
+## Task 8 – Personal Budget Tracker Website
+
+**Objective:**
+Designed and developed a responsive Personal Budget Tracker website using HTML5 and CSS3.
+
+### Website Pages
+
+1. Home
+2. About
+3. Features
+4. Budget Tracker
+5. Reports
+6. Resources
+7. Contact
+
+### Frame Pages
+
+* index.html
+* header.html
+* menu.html
+* footer.html
+
+### Features
+
+* Responsive Design
+* Professional Navigation
+* Forms
+* Tables
+* Images
+* Audio
+* Video
+* Hyperlinks
+* Lists
+* CSS Styling
+* Flexbox
+* Media Queries
+
+---
+
+# Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+# Software Used
+
+* Visual Studio Code
+* Google Chrome / Microsoft Edge
+
+---
+
+# Learning Outcomes
+
+Through these laboratory exercises, the following concepts were learned:
+
+* HTML5 Page Structure
+* Text Formatting
+* Hyperlinks
+* Images
+* Lists
+* Tables
+* Forms
+* Frames
+* Audio & Video
+* CSS Styling
+* Responsive Web Design
+* JavaScript Basics
+* User Interface Design
+
+---
+
+# Conclusion
+
+These projects provided practical experience in designing and developing static web pages using HTML5, CSS3, and JavaScript. They enhanced understanding of web page structure, styling, navigation, forms, multimedia integration, and responsive design principles, laying a strong foundation for modern web development.

@@ -1,0 +1,52 @@
+<html>
+<head>
+    <title>Library Book Borrowing</title>
+</head>
+
+<body bgcolor="#FFF8DC">
+<center>
+
+<h2>Library Book Borrowing System</h2>
+
+<button onclick="borrowBook()">Borrow Book</button>
+
+<p id="result"></p>
+
+<script>
+function borrowBook()
+{
+    // Prompt Box
+    var name = prompt("Enter your name:");
+
+    if(name=="" || name==null)
+    {
+        alert("Name is required!");
+        return;
+    }
+
+    // Confirm Box
+    var choice = confirm("Do you want to borrow the book?");
+
+    if(choice==true)
+    {
+        // Alert Box
+        alert("Book borrowed successfully!");
+
+        document.getElementById("result").innerHTML =
+        "Student Name: " + name +
+        "<br>Status: Book Borrowed";
+    }
+    else
+    {
+        alert("Borrowing cancelled.");
+
+        document.getElementById("result").innerHTML =
+        "Student Name: " + name +
+        "<br>Status: Borrowing Cancelled";
+    }
+}
+</script>
+
+</center>
+</body>
+</html>
